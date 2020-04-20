@@ -14,3 +14,9 @@ On a NVIDIA GTX1660, one epoch running through the ~700 images takes about 1 min
 
 Loss Evolution: 
 ![Loss per Epoch](https://github.com/GastonLagaffe2013/Covid-19-Classifier/blob/master/Loss%20Evolution.png)
+
+Covid-19 fidning (True Positive):
+![True Positive](https://github.com/GastonLagaffe2013/Covid-19-Classifier/blob/master/heatmaps/heatmap20042020-115334.png)
+
+No finding (True negative):
+![True Positive](https://github.com/GastonLagaffe2013/Covid-19-Classifier/blob/master/heatmaps/heatmap20042020-115321.png)
