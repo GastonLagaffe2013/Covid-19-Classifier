@@ -1,7 +1,7 @@
 # Covid-19-Classifier
 Classify COVID-19 CT images using ResNeXt and other networks
 
-I have used the data given at https://github.com/UCSD-AI4H/COVID-CT to train a neural network. All images go into one single directoy (./images). The true information is stored in the csv files for training and validation
+I have used the data given at https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed to train a neural network. All images go into one single directoy (./images). The truth information is stored in the csv files for training and validation
 
 After 300 Epochs, the accuracy was above 98% with a confidence of > 95%.
 
