@@ -11,3 +11,6 @@ Confidence is calculated by averaging the network prediction for each classifica
 
 The code is based on ResNeXt50_32x4d with an input image size of 512x512
 On a NVIDIA GTX1660, one epoch running through the ~700 images takes about 1 minute, the 300 epochs took about 32 hours
+
+Loss Evolution: 
+![Loss per Epoch](https://github.com/GastonLagaffe2013/Covid-19-Classifier/blob/master/Loss%20Evolution.png)
