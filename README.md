@@ -1,3 +1,7 @@
+## Disclaimer
+
+This work is for didactic purposes (train & classify neural network) and should not be used for real diagnosis
+
 # Covid-19-Classifier
 Classify COVID-19 CT images using ResNeXt and other networks
 
